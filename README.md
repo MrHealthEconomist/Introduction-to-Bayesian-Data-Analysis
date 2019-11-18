@@ -1,4 +1,4 @@
-# Introduction-to-Bayesian-Data-Analysis
+# Introduction-to-Bayesian-Data-Analysis | by Rasmus Bååth
 An introductory Youtube tutorial to Bayesian Data Analysis, by Rasmus Bååth. A must for anyone keen on learning the basics of 
 Bayesian inference. Rasmus offers an intuitive understanding of Bayes' theorem, and the application of the Hamiltonian MC/NUTS algorithm used for posterior sampling. Practical examples are generated using Stan.
 
