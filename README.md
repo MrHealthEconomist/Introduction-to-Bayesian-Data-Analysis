@@ -6,8 +6,8 @@ algorithm used for posterior sampling. Practical examples are generated using St
 
 - Rasmus' Youtube tutorial:
 
-https://www.youtube.com/watch?v=3OJEae7Qb_o
+[Click here](https://www.youtube.com/watch?v=3OJEae7Qb_o).
 
 - Rasmus' DataCamp tutorial:
 
-https://www.datacamp.com/courses/fundamentals-of-bayesian-data-analysis-in-r
+[Click here](https://www.datacamp.com/courses/fundamentals-of-bayesian-data-analysis-in-r).
